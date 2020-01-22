@@ -1,0 +1,9 @@
+__pycache__/
+out/ver* # old versions
+!out/ver11 # most recent version
+
+infos/ver*
+!infos/ver11
+
+*.config
+

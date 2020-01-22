@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content="text/html" charset="utf-8">
+  <style>
+  *{
+    font-family: Arial;
+    /* Arial font sadly does not survive
+    conversion to pdf... */
+    font-size: 15px;
+  }
+  table{
+    margin-top: 50px;
+    /* to not collide with names */
+    width: 95%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  tr{
+    border: 2px solid black;
+    height: 40px; /* height of each row */
+  }
+  td{
+    text-align: center;
+    padding: 4px;
+    border: 2px solid black;
+  }
+  th{
+    /* padding: 3px; */
+    border: 2px solid black;
+  }
+  .week_number{
+    font-size: 30px;
+    margin-bottom: 0;
+  }
+  i{  /* used to style without having p style */
+    font-style: normal;
+  }
+  body{
+    text-align: center;
+  }
+  .subtitle{
+    margin-top: 0px;
+  }
+  p{
+    margin-top: 0;
+  }
+  #wrapper{
+    position: absolute;
+    right: 25px;
+  }
+  .name{
+    margin: 1 auto;
+  }
+
+  </style>
+</head>
+<body>
+  <!-- insert names here -->
+  <h1 style="margin-bottom: 0px;">Colloscope</h1>
+  <p class="subtitle" style="margin-bottom: 0px;">Groupe numéro {number}</p>
+  <p class="subtitle" style="margin-bottom: 50px">Année 2017-2018</p>
+
+  <table>
+    <tr>
+      <th>Semaine</th>
+      <th>Jour - Heure</th>
+      <th>Matière</th>
+      <th>Colleur</th>
+      <th>Salle</th>
+    </tr>
+    <!-- insert inner_html_here -->
+  </table>
+</body>
+</html>
