@@ -8,7 +8,7 @@ group of three students (numbered 1 to 15) has a "colle"
 The colloscope provided by my teacher (shown below) was a single Excel spreadsheet, 
 containing information for every group.
 
-<p align="center"><img src="https://github.com/loic-lescoat/showcase/blob/master/Colloscope/img/screenshot_of_excel_file_colloscope.png"
+<p align="center"><img src="img/screenshot_of_excel_file_colloscope.png"
  height=500 alt="screenshot_of_excel_file_colloscope.png"></img></p>
 
 
@@ -23,7 +23,7 @@ personnalized colloscope - one PDF for each group - containing
  only information that is
 relevant to the student reading the PDF.
 
-<p align="center"><img src="https://github.com/loic-lescoat/showcase/blob/master/Colloscope/img/screenshot_of_group_15_s_pdf.jpg"
+<p align="center"><img src="img/screenshot_of_group_15_s_pdf.jpg"
  height=500 alt="screenshot_of_group_15_s_PDF.jpg"></img></p>
  
- A screenshot of a PDF generated automatically.
+<p align="center">A screenshot of a PDF generated automatically.</p>
