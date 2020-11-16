@@ -28,4 +28,4 @@ relevant to the student reading the PDF.
  
 <p align="center">A screenshot of a PDF generated automatically.</p>
 
-This personalized format presents relevant information, improves readability and spares students the headache of manually searching for their group number through a sprawling spreadsheet.
+This personalized format presents only relevant information, improves readability and spares students the headache of manually searching for their group number through a sprawling spreadsheet.
