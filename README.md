@@ -1,4 +1,4 @@
-## Colloscope - Reorganizing a timetable for clarity
+# Colloscope - Reorganizing a timetable for clarity
 
 A colloscope is a timetable for a class of 45 students
 showing when and where each
@@ -27,3 +27,5 @@ relevant to the student reading the PDF.
  height=500 alt="screenshot_of_group_15_s_PDF.jpg"></img></p>
  
 <p align="center">A screenshot of a PDF generated automatically.</p>
+
+This personalized format presents relevant information, improves readability and spares students the headache of manually searching for their group number through a sprawling spreadsheet.
